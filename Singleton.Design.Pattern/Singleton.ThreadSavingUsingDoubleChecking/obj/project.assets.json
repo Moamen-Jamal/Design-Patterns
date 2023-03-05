@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\Singleton.ThreadSavingUsingDoubleChecking.csproj",
+      "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\Singleton.ThreadSavingUsingDoubleChecking.csproj",
       "projectName": "Singleton.ThreadSavingUsingDoubleChecking",
-      "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\Singleton.ThreadSavingUsingDoubleChecking.csproj",
+      "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\Singleton.ThreadSavingUsingDoubleChecking.csproj",
       "packagesPath": "C:\\Users\\Momen.Jamal\\.nuget\\packages\\",
-      "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\obj\\",
+      "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

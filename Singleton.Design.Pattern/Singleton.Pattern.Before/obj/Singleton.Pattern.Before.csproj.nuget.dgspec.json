@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj": {}
+    "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj": {}
   },
   "projects": {
-    "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj": {
+    "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj",
+        "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj",
         "projectName": "Singleton.Pattern.Before",
-        "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj",
+        "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj",
         "packagesPath": "C:\\Users\\Momen.Jamal\\.nuget\\packages\\",
-        "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\obj\\",
+        "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

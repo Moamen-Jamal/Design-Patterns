@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Decorator.Design.Pattern\\Decorator.Design.Pattern\\Decorator.Design.Pattern.csproj",
+      "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Decorator.Design.Pattern\\Decorator.Design.Pattern\\Decorator.Design.Pattern.csproj",
       "projectName": "Decorator.Design.Pattern",
-      "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Decorator.Design.Pattern\\Decorator.Design.Pattern\\Decorator.Design.Pattern.csproj",
+      "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Decorator.Design.Pattern\\Decorator.Design.Pattern\\Decorator.Design.Pattern.csproj",
       "packagesPath": "C:\\Users\\Momen.Jamal\\.nuget\\packages\\",
-      "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Decorator.Design.Pattern\\Decorator.Design.Pattern\\obj\\",
+      "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Decorator.Design.Pattern\\Decorator.Design.Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

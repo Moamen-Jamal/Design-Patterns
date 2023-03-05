@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj": {}
+    "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj": {}
   },
   "projects": {
-    "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj": {
+    "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj",
+        "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj",
         "projectName": "Singleton.ThreadSaveUsingLock",
-        "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj",
+        "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj",
         "packagesPath": "C:\\Users\\Momen.Jamal\\.nuget\\packages\\",
-        "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\obj\\",
+        "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

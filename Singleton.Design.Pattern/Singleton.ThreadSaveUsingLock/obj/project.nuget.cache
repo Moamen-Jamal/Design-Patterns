@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cwqq2nfgO7Rxv3+CkOtkf93hPt+D8OdRZG4PsH51QT59V0oiXy8Hy6IztgtQX7omJ8FFG9kMaLif0Lrv5y0fJg==",
+  "dgSpecHash": "PGoPB8/xgSpkxAFU7pHFrSJONgfhCT23lzRXieqBPLR2qTydZub5n/kO7LtMUpzwkWhTD7kepCoQA3uFu56p6g==",
   "success": true,
-  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj",
+  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSaveUsingLock\\Singleton.ThreadSaveUsingLock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

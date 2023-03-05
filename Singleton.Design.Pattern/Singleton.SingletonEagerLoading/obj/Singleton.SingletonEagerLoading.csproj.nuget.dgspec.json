@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj": {}
+    "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj": {}
   },
   "projects": {
-    "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj": {
+    "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj",
+        "projectUniqueName": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj",
         "projectName": "Singleton.SingletonEagerLoading",
-        "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj",
+        "projectPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\Singleton.SingletonEagerLoading.csproj",
         "packagesPath": "C:\\Users\\Momen.Jamal\\.nuget\\packages\\",
-        "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\obj\\",
+        "outputPath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.SingletonEagerLoading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

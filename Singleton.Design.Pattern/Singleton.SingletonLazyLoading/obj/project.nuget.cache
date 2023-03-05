@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "09hfE677++hSuBHvsfNMz8fjaFK2/xSP+cCZxrsslZC+bHmYJtlmDAoq5lPf6oykkBLYDbyiliy1j0OMWX8LKQ==",
+  "dgSpecHash": "7b9ph+VMUVDnH1yQrt92c1EHqnvEpW9CIzEC3DUIt/Su2n1ZDokGyr+CHm5Kqpi8J7yxSS91yNLY2qnmvGNJmg==",
   "success": true,
-  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.SingletonLazyLoading\\Singleton.SingletonLazyLoading.csproj",
+  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.SingletonLazyLoading\\Singleton.SingletonLazyLoading.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvU9mIJCWYDXqYtcERwKoHtEAdgrwqJhiZYWvlRK/3Gfk5rbcrSzi3qHJZ5nqzvAnWTU/fQ2L0UEf2Csw2Z5nA==",
+  "dgSpecHash": "cO9vewOn4UojijZR4JLwI6KekEnv7zpBdKDsZqTAQNf0zJKO75ZbWJ1S4T80vZ2y0F0Byqhhl0aks03GP6m4vw==",
   "success": true,
-  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj",
+  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.Pattern.Before\\Singleton.Pattern.Before.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cz8UaXug3YWxCiZti5vsyoLcVHEhUB6BemPTLkM83qg8oVOilNCIxTA9feZq942g48d4e7H7r3z4om6BMr042A==",
+  "dgSpecHash": "5fYVDQCNA7clh7IiP153MoUSDq8Q2iThs+UtTeycnkuf5FEDO/yBBWYNhII6dDjYTYucRLl9JYfUJVEJBsoNJQ==",
   "success": true,
-  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\Singleton.ThreadSavingUsingDoubleChecking.csproj",
+  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Singleton.Design.Pattern\\Singleton.ThreadSavingUsingDoubleChecking\\Singleton.ThreadSavingUsingDoubleChecking.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
