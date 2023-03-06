@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x9GWmy3ddd6ELgFVUC5s0dnIjiVf+R7sgGn7FVYWDMtYmxIBAx1kSypy++E8PTVr7ndj9CZw3bNf3Zxr84j1jg==",
+  "dgSpecHash": "80Znp6jOmFtlNY2SpSmLf0AWlI/UIX4U3n9B0LmaBGake7AeFvXMQYtWfIULY4RTtfWACIWJ/6crJnlmj10Aeg==",
   "success": true,
-  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\State.Design.Pattern\\State.Before\\State.Before.csproj",
+  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\State.Design.Pattern\\State.Before\\State.Before.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
