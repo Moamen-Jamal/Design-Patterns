@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G77qSlhrbx7ImNulUvckgC9swJ/IUMt7UuohyaizDtNFGNsD48alu9BUslEhEGcyOxXFCijQokzBuAimpWTD+g==",
+  "dgSpecHash": "hiGVDP/8MsMEcxuOTcl8iPbcpUKY7jSEat39ZFokjxAKbrM150EQvjOJT03u10qJxG/Xo0JWv81qUYqfdL0hsg==",
   "success": true,
-  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Observer.Design.Pattern\\Observer.Design.Pattern\\Observer.Design.Pattern.csproj",
+  "projectFilePath": "D:\\Objectives Q1 2023\\Design Patterns\\Design-Patterns\\Observer.Design.Pattern\\Observer.Design.Pattern\\Observer.Design.Pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
